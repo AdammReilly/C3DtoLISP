@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>/ld "C:\Program Files\Autodesk\AutoCAD 2019\\AecBase.dbx" /p "S:\data\Resources\HCE-2019.arg" /product "C3D" /language "en-US"</StartArguments>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Autodesk\AutoCAD 2019\acad.exe</StartProgram>
+  </PropertyGroup>
+</Project>
